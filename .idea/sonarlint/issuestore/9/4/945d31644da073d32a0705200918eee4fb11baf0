@@ -1,0 +1,10 @@
+
+isquid:UselessImportCheck";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8Œ¾ÃÀ•-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒïÍ8Œ¾ÃÀ•-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úº¢Øøÿÿÿÿ8Œ¾ÃÀ•-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Œ¾ÃÀ•-
+osquid:UselessImportCheck"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8Œ¾ÃÀ•-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Œ¾ÃÀ•-
+\squid:S2274";Remove this call to "await" or move it into a "while" loop.(×œªìşÿÿÿÿ8Œ¾ÃÀ•-

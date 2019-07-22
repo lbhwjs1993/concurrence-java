@@ -1,0 +1,23 @@
+
+Qsquid:S1854"5Remove this useless assignment to local variable "a".(œĞÜ8†°‚Å¥-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(í¾óô8€ƒˆá -
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—æÎĞúÿÿÿÿ8†°‚Å¥-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó”ö8›š„Å¥-
+Fsquid:S1481"*Remove this unused "list2" local variable.(´‰“é8†Ğá -
+Lsquid:S1481"+Remove this unused "userAS" local variable.(å¢º¥úÿÿÿÿ8Ò€‚Å¥-
+Fsquid:S1481"*Remove this unused "list1" local variable.(í¾óô8€ƒˆá -
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É×óÖüÿÿÿÿ8¤˜‚Å¥-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.( æÌ£øÿÿÿÿ8ûÔ÷„¢-
+Jsquid:S1481")Remove this unused "list" local variable.(ìô²ıÿÿÿÿ8 ó“ã -
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó”ö8ÿŞÿÄ¥-
+~squid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "userB".(Ô¥·ñıÿÿÿÿ8Ñ•Ö„¢-
+Usquid:S1854"9Remove this useless assignment to local variable "list1".(í¾óô8€ƒˆá -
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±ºú“8Ò€‚Å¥-
+Usquid:S1854"9Remove this useless assignment to local variable "list2".(´‰“é8†Ğá -
+Ysquid:S1854"8Remove this useless assignment to local variable "list".(ìô²ıÿÿÿÿ8 ó“ã -
+Bsquid:S1481"&Remove this unused "a" local variable.(œĞÜ8†°‚Å¥-
+Isquid:S1604"(Make this anonymous inner class a lambda(Ô¥·ñıÿÿÿÿ8¾Ä¡„¢-
+[squid:S1854":Remove this useless assignment to local variable "userAS".(å¢º¥úÿÿÿÿ8Ò€‚Å¥-

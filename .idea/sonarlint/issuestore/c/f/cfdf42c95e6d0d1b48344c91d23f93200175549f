@@ -1,0 +1,7 @@
+
+[squid:S1481":Remove this unused "executorServiceSingle" local variable.(³ˆªıÿÿÿÿ8Çò›æ-
+osquid:S1854"NRemove this useless assignment to local variable "executorServiceSingleCache".(€ã½ˆÿÿÿÿÿ8÷Ã¦æ-
+Psquid:S1481"4Remove this unused "executorService" local variable.(ßíºÙ8•”†æ-
+`squid:S1481"?Remove this unused "executorServiceSingleCache" local variable.(€ã½ˆÿÿÿÿÿ8÷Ã¦æ-
+jsquid:S1854"IRemove this useless assignment to local variable "executorServiceSingle".(³ˆªıÿÿÿÿ8Çò›æ-
+_squid:S1854"CRemove this useless assignment to local variable "executorService".(ßíºÙ8•”†æ-
